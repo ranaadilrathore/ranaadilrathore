@@ -1,4 +1,4 @@
-# <div align="center">:rocket: **MOEEZ SULEMAN** :rocket:</div>
+# <div align="center">:rocket: **Adil Fayyaz** :rocket:</div>
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=35&duration=3000&pause=500&color=00F5FF&center=true&vCenter=true&width=800&height=100&lines=Full-Stack+Architect;Web3+%26+AI+Visionary;Blockchain+Pioneer;Mobile+Innovation+Expert;Automation+Wizard" alt="Typing SVG" />
 </div>
